@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Habilidades
+## ✓ Habilidades
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white) 
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?style=flat) 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Objetivos
+## 𖡡 Objetivos
 
 - Crescer como desenvolvedora Full Stack e UI/UX Designer  
 - Criar projetos inovadores e interativos  
@@ -26,13 +26,13 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## ⌨ Projetos em destaque
 
 - **[Na Pele e na Consciência](https://github.com/eianaxz/NA-PELE-E-NA-CONSCI-NCIA---PROJETO.git)** – Simulador ético interativo, Python/PySide6 
 
 ---
 
-## 📫 Contato
+## ✉ Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-souza-%F0%9F%A7%A0-5a424b287) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasouzadev.code@gmail.com)
@@ -42,4 +42,4 @@
 
 ---
 
-✨ “Codando sonhos, uma linha de cada vez.” ✨
+ “Codando sonhos, uma linha de cada vez.” 
