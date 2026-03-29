@@ -3,8 +3,8 @@
 
 💻 Desenvolvedora de Software em Formação  
 🎓 Estudante de Sistemas de Informação na UFRPE  
-💡 Apaixonada por Full Stack, UI/UX Design, programação e tecnologia  
-✨ Codando sonhos e transformando ideias em projetos interativos  
+💡 Apaixonada por Full Stack, UI/UX Design, e tecnologia  
+ 
 
 ---
 
