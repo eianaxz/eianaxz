@@ -10,7 +10,7 @@ Desenvolvimento Full Stack · Desenvolvimento Mobile · Engenharia de Software �
 
 Estudante de Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE), com atuação em projetos voltados ao desenvolvimento de software, aplicações mobile, integração de sistemas e análise de dados.
 
-Possuo experiência prática com React Native, TypeScript, JavaScript, Python, Firebase e SQL, participando da construção completa de aplicações — desde modelagem de fluxos e funcionalidades até integração com banco de dados, autenticação e experiência do usuário.
+Possuo experiência prática com React Native, TypeScript, JavaScript, Python, Firebase e SQL, participando da construção completa de aplicações, desde modelagem de fluxos e funcionalidades até integração com banco de dados, autenticação e experiência do usuário.
 
 Tenho interesse em desenvolvimento full stack, arquitetura de software e engenharia de produto, com forte atenção à usabilidade, organização estrutural e construção de interfaces intuitivas.
 
@@ -57,7 +57,7 @@ Tenho interesse em desenvolvimento full stack, arquitetura de software e engenha
 
 ---
 
-## Projetos
+## Projetos em Destaque 
 
 ### AquaSense — Plataforma de Monitoramento Hídrico
 
