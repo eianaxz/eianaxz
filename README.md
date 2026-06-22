@@ -74,7 +74,7 @@ Plataforma mobile para monitoramento hídrico colaborativo. Cadastro de usuário
 
 **Na Pele e na Consciência**
 
-Sistema interativo de dilemas éticos em Python. Foco em tomada de decisão, interface gráfica e impacto social — evoluindo de Tkinter para PySide6.
+Sistema interativo de dilemas éticos em Python. Foco em tomada de decisão, interface gráfica e impacto social.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
