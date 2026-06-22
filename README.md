@@ -21,7 +21,7 @@
 ```typescript
 const ana = {
   curso:      "Sistemas de Informação @ UFRPE",
-  foco:       ["Full Stack Web", "Mobile", "UX/UI Design", "Dados"],
+  foco:       ["Full Stack", "Mobile", "UX/UI Design", "Dados"],
   atualmente: "construindo soluções para problemas reais",
 };
 ```
