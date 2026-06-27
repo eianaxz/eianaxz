@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&pause=1500&color=C8A882&center=true&vCenter=true&width=520&lines=oi%2C+sou+a+Ana+%3A)" alt="Typing SVG" />
+![header](./header%20(1).svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anasouza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8D6E63?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/eianaxz" target="_blank"><img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:ana.clarasouza@ufrpe.br"><img src="https://img.shields.io/badge/Email-D7CCC8?style=for-the-badge&logo=gmail&logoColor=4E342E" /></a>
+<a href="https://www.linkedin.com/in/anasouza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e1512?style=for-the-badge&logo=linkedin&logoColor=c8a882&labelColor=1e1512&color=1e1512" /></a>
+<a href="https://github.com/eianaxz" target="_blank"><img src="https://img.shields.io/badge/GitHub-1e1512?style=for-the-badge&logo=github&logoColor=c8a882&labelColor=1e1512&color=1e1512" /></a>
+<a href="mailto:ana.clarasouza@ufrpe.br"><img src="https://img.shields.io/badge/Email-1e1512?style=for-the-badge&logo=gmail&logoColor=c8a882&labelColor=1e1512&color=1e1512" /></a>
+
+
 
 </div>
 
@@ -14,117 +16,132 @@
 
 ---
 
-### sobre
+<br/>
 
-Estudante de Sistemas de Informação na UFRPE, com foco em engenharia de software, desenvolvimento full stack e design de produto. O interesse não é só no código que funciona, mas nas decisões que moldam como um sistema é construído e como isso afeta quem vai usá-lo.
+## sobre
 
-Afinidade com os dois lados: arquitetura e interface. Gosto de pensar em estrutura, mas a experiência de quem navega pelo produto importa tanto quanto.
+Estudante de Sistemas de Informação na UFRPE, com foco em engenharia de software, desenvolvimento full stack e design de produto.
 
-
----
-
-### tecnologias
-
-**frontend & mobile**
-
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</div>
+O interesse não é só no código que funciona — é nas decisões que moldam como um sistema é construído e como isso afeta quem vai usá-lo. Afinidade com os dois lados: arquitetura e interface. Gosto de pensar em estrutura, mas a experiência de quem navega pelo produto importa tanto quanto.
 
 <br/>
 
-**backend & dados**
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-6C757D?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</div>
+---
 
 <br/>
 
-**design & ferramentas**
+## tecnologias
 
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</div>
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**· frontend & mobile**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1512?style=flat-square&logo=typescript&logoColor=c8a882)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1512?style=flat-square&logo=javascript&logoColor=c8a882)
+![React Native](https://img.shields.io/badge/React_Native-1e1512?style=flat-square&logo=react&logoColor=c8a882)
+![HTML5](https://img.shields.io/badge/HTML5-1e1512?style=flat-square&logo=html5&logoColor=c8a882)
+![CSS3](https://img.shields.io/badge/CSS3-1e1512?style=flat-square&logo=css3&logoColor=c8a882)
+
+</td>
+<td valign="top" width="33%">
+
+**· backend & dados**
+
+![Python](https://img.shields.io/badge/Python-1e1512?style=flat-square&logo=python&logoColor=c8a882)
+![Firebase](https://img.shields.io/badge/Firebase-1e1512?style=flat-square&logo=firebase&logoColor=c8a882)
+![SQL](https://img.shields.io/badge/SQL-1e1512?style=flat-square&logo=mysql&logoColor=c8a882)
+![Pandas](https://img.shields.io/badge/Pandas-1e1512?style=flat-square&logo=pandas&logoColor=c8a882)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1e1512?style=flat-square&logo=fastapi&logoColor=c8a882)
+
+</td>
+<td valign="top" width="33%">
+
+**· design & ferramentas**
+
+![Figma](https://img.shields.io/badge/Figma-1e1512?style=flat-square&logo=figma&logoColor=c8a882)
+![Git](https://img.shields.io/badge/Git-1e1512?style=flat-square&logo=git&logoColor=c8a882)
+![GitHub](https://img.shields.io/badge/GitHub-1e1512?style=flat-square&logo=github&logoColor=c8a882)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-### interesses
+<br/>
 
-<div align="center">
+## projetos
 
-`Engenharia de Software` &nbsp;·&nbsp; `Desenvolvimento Full Stack` &nbsp;·&nbsp; `UX/UI Design` &nbsp;·&nbsp; `Design de Sistemas` &nbsp;·&nbsp; `Produto Digital`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-</div>
-
----
-
-### projetos em destaque
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-
-**AquaSense**
+### AquaSense
 
 Plataforma mobile para monitoramento hídrico colaborativo. Usuários registram ocorrências com geolocalização, acompanham contribuições ambientais e ajudam a compor um mapa de qualidade da água em tempo real.
 
 O desafio central foi pensar usabilidade em contexto de campo, onde a conexão é instável e o registro precisa ser rápido.
 
-<img src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/-Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+<br/>
 
-  </td>
-  <td width="50%" valign="top">
+![React Native](https://img.shields.io/badge/React_Native-1e1512?style=flat-square&logo=react&logoColor=c8a882)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1512?style=flat-square&logo=typescript&logoColor=c8a882)
+![Firebase](https://img.shields.io/badge/Firebase-1e1512?style=flat-square&logo=firebase&logoColor=c8a882)
+![Maps API](https://img.shields.io/badge/Maps_API-1e1512?style=flat-square&logo=googlemaps&logoColor=c8a882)
 
-**Na Pele e na Consciência**
+</td>
+<td valign="top" width="50%">
+
+### Na Pele e na Consciência
 
 Simulador interativo de dilemas éticos. O usuário navega por situações de impacto social e toma decisões que revelam perspectivas diferentes sobre um mesmo problema.
 
 A interface foi pensada para que o peso de cada escolha chegasse de verdade, sem parecer um formulário.
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/-POO-8D6E63?style=flat-square&logoColor=white" />
+<br/>
 
-  </td>
-  </tr>
+![Python](https://img.shields.io/badge/Python-1e1512?style=flat-square&logo=python&logoColor=c8a882)
+![PySide6](https://img.shields.io/badge/PySide6-1e1512?style=flat-square&logo=qt&logoColor=c8a882)
+![POO](https://img.shields.io/badge/POO-1e1512?style=flat-square&logoColor=c8a882)
+
+</td>
+</tr>
 </table>
+
+<br/>
 
 ---
 
-### atividade
+<br/>
+
+## atividade
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eianaxz&hide_border=true&background=1e1512&ring=C8A882&fire=D4A96A&currStreakLabel=C8A882&sideLabels=7a5c42&dates=7a5c42&currStreakNum=ffffff&sideNums=d4bfaa" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=eianaxz&hide_border=true&background=0d0905&ring=c8a882&fire=d4956a&currStreakLabel=c8a882&sideLabels=7a5c42&dates=5c4030&currStreakNum=f5e6d3&sideNums=d4bfaa&stroke=3d1f0a" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=eianaxz&show_icons=true&hide_border=true&bg_color=1e1512&title_color=C8A882&icon_color=D4A96A&text_color=d4bfaa&hide=stars,contribs&count_private=true&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=eianaxz&show_icons=true&hide_border=true&bg_color=0d0905&title_color=c8a882&icon_color=d4956a&text_color=d4bfaa&hide=stars,contribs&count_private=true&hide_rank=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eianaxz&bg_color=1e1512&color=C8A882&line=8D6E63&point=D4A96A&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eianaxz&bg_color=0d0905&color=c8a882&line=7a5c42&point=d4956a&area=true&area_color=3d1f0a&hide_border=true" />
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-  <sub>Sistemas de Informação · UFRPE · Recife, PE</sub>
+
+![footer](./footer.svg)
+
+
+
 </div>
