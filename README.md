@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ana-souza-5a424b287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8D6E63?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anasouza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8D6E63?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/eianaxz" target="_blank"><img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:ana.clarasouza@ufrpe.br"><img src="https://img.shields.io/badge/Email-D7CCC8?style=for-the-badge&logo=gmail&logoColor=4E342E" /></a>
 
